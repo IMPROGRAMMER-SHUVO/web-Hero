@@ -1,0 +1,41 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    
+}
+h1{ 
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.orange{
+    color:orange;
+}
+section{
+    display: flex;
+}
+.helf-width{
+    width: 50%;
+    padding-left:5%;
+    
+}
+.helf-width img{ 
+    width: 80%;
+}
+.helf-width p{ 
+    text-align: justify;
+}
+
+.button{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:rgb(236, 227, 227);
+    background: orange;
+    border-radius: 8px;
+    box-shadow: 1px 2px black;
+    padding: 10px 15px;
+    font-weight: 700;
+}
+.button :hover{background: blue;}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
