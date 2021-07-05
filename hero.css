@@ -97,6 +97,16 @@ h1{
     border-left: 10px solid;
     border-image-slice: 1;
     border-radius: 10px;
-    
 }
+    
+    .Foot {
+        text-align: center;
+        background: rgb(169 70 175 / 79%);
+        text-transform: uppercase;
+        box-shadow: 10px -10px grey;
+        padding: 2px;
+        margin-bottom: 9px;
+        border-radius: 93px;
+        color: beige;
+    }
     
